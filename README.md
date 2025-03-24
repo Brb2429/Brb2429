@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and mongoDB
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me Rohitbhargav240697@gmail.com
-- 😄 Pronouns: BRB
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Money can buy happiness.
 
 <!---
